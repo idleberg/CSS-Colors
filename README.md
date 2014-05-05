@@ -1,6 +1,6 @@
 # CSS Color Swatch Systems [![Build Status](https://secure.travis-ci.org/idleberg/CSS-Color-Swatch-Systems.png)](http://travis-ci.org/idleberg/CSS-Color-Swatch-Systems)
 
-CSS color completions for Sublime Text, supporting a variety of color systems
+CSS color completions for Sublime Text, supporting a variety of color systems such as Pantone or RAL
 
 ## Installation
 
