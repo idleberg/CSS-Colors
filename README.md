@@ -1,6 +1,6 @@
-# CSS Colours for Sublime Text
+# CSS Color Swatch Systems [![Build Status](https://secure.travis-ci.org/idleberg/CSS-Color-Swatch-Systems.png)](http://travis-ci.org/idleberg/CSS-Color-Swatch-Systems)
 
-CSS color completions supporting various colour systems
+CSS color completions for Sublime Text, supporting a variety of color systems
 
 ## Installation
 
@@ -8,12 +8,12 @@ CSS color completions supporting various colour systems
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
-3. Select *CSS Colours* and press `Enter`}
+3. Select *CSS Color Swatch Systems* and press `Enter`}
 
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/CSS-Colours`
+2. Clone repository `git clone https://github.com/idleberg/CSS-Color-Swatch-Systems`
 
 ## Usage
 
@@ -56,4 +56,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/CSS-Colours) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/CSS-Color-Swatch-Systems) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
