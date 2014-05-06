@@ -24,11 +24,11 @@ Use any of the following triggers:
 Prefix       | Value | Representation | Colour System
 -------------|-------|----------------|--------------
 ANPA→Hex     | code  | Hexdecimal     | American Newspaper Publishers Association (1)
-ANPA→HSL     | code  | HSL            | American Newspaper Publishers Association *
-ANPA→HSLa    | code  | HSLa           | American Newspaper Publishers Association *
-ANPA→RGB     | code  | RGB            | American Newspaper Publishers Association *
-ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association *
-ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association *
+ANPA→HSL     | code  | HSL            | American Newspaper Publishers Association (0)
+ANPA→HSLa    | code  | HSLa           | American Newspaper Publishers Association (0)
+ANPA→RGB     | code  | RGB            | American Newspaper Publishers Association (0)
+ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association (0)
+ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association (0)
 HKS K→Hex    | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
 HKS K→RGB    | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
 HKS K→RGBa   | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
@@ -36,13 +36,13 @@ HKS N→Hex    | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia
 HKS N→RGB    | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
 HKS N→RGBa   | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
 Pantone→Hex  | code  | Hexadecimal    | [Pantone Matching System](https://www.pantone.com) (3)
-Pantone→HSL  | code  | HSL            | [Pantone Matching System](https://www.pantone.com) *
-Pantone→HSLa | code  | HSLa           | [Pantone Matching System](https://www.pantone.com) *
+Pantone→HSL  | code  | HSL            | [Pantone Matching System](https://www.pantone.com) (0)
+Pantone→HSLa | code  | HSLa           | [Pantone Matching System](https://www.pantone.com) (0)
 Pantone→RGB  | code  | RGB            | [Pantone Matching System](https://www.pantone.com) (3)
 Pantone→RGBa | code  | RGBa           | [Pantone Matching System](https://www.pantone.com) (3)
 RAL→Hex      | code  | Hexadecimal    | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
-RAL→HSL      | code  | HSL            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) *
-RAL→HSLa     | code  | HSLa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) *
+RAL→HSL      | code  | HSL            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
+RAL→HSLa     | code  | HSLa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
 RAL→RGB      | code  | RGB            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
 RAL→RGBa     | code  | RGBa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
 W3C→Hex      | name  | Hexadecimal    | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
@@ -51,11 +51,11 @@ W3C→HSLa     | name  | HSLa           | [CSS Color Module Level 3](http://www.
 W3C→RGB      | name  | RGB            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 W3C→RGBa     | name  | RGBa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 
+*(0) converted from Hex values*  
 *(1) sampled from Adobe Photoshop*  
 *(2) sampled from [Online HKS Converter](http://hks2.com/)*  
 *(3) sampled from [umsiko.co.za](http://www.umsiko.co.za/links/color.html/)*  
 *(4) sampled from [ralcolor.com](http://www.ralcolor.com/)*  
-*\* converted from Hex values*  
 
 ### Examples:
 
