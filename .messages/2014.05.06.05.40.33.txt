@@ -1,2 +1,4 @@
+post-2014.05.06.05.40.33
+========================
 * added HSL(a) support for all color systems
 * added support for ANPA colors
