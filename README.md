@@ -23,17 +23,28 @@ Use any of the following triggers:
 
 Prefix       | Value | Representation | Colour System
 -------------|-------|----------------|--------------
+ANPA→Hex     | code  | Hexdecimal     | American Newspaper Publishers Association
+ANPA→HSL     | code  | HSL            | American Newspaper Publishers Association
+ANPA→HSLa    | code  | HSLa           | American Newspaper Publishers Association
+ANPA→RGB     | code  | RGB            | American Newspaper Publishers Association
+ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association
 Hex          | name  | Hexdecimal     | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+HSL          | name  | HSL            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+HSLa         | name  | HSLa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 RGB          | name  | RGB            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 RGBa         | name  | RGBa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 Pantone→Hex  | code  | Hexdecimal     | [Pantone Matching System](https://www.pantone.com)
+Pantone→HSL  | code  | HSL            | [Pantone Matching System](https://www.pantone.com)
+Pantone→HSLa | code  | HSLa           | [Pantone Matching System](https://www.pantone.com)
 Pantone→RGB  | code  | RGB            | [Pantone Matching System](https://www.pantone.com)
 Pantone→RGBa | code  | RGBa           | [Pantone Matching System](https://www.pantone.com)
 RAL→Hex      | code  | Hexdecimal     | [RAL System](http://www.ralcolor.com/) (approx.)
+RAL→HSL      | code  | HSL            | [RAL System](http://www.ralcolor.com/) (approx.)
+RAL→HSLa     | code  | HSLa           | [RAL System](http://www.ralcolor.com/) (approx.)
 RAL→RGB      | code  | RGB            | [RAL System](http://www.ralcolor.com/) (approx.)
 RAL→RGBa     | code  | RGBa           | [RAL System](http://www.ralcolor.com/) (approx.)
 
-Examples:
+*Examples:*
 
 - `RGB:lime` → rgb(0, 255, 0)
 - `Pantone→Hex:313C` → #0092c7
