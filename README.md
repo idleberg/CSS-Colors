@@ -39,7 +39,7 @@ Examples:
 - `Pantone→Hex:313C` → #0092c7
 - `RAL→RGBa:3001` → rgba(165, 32, 25, 1.0)
 
-Think of the `→` as a visual seperator only. When typing a trigger, you should leave it out!
+Think of the `→` as a visual separator only. When typing a trigger, you should leave it out!
 
 
 ## License
