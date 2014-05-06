@@ -1,2 +1,2 @@
-* added HSK color system
+* added HKS color system
 * modified triggers for W3C colors
