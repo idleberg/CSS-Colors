@@ -40,18 +40,18 @@ Pantone→HSL  | code  | HSL            | [Pantone Matching System](https://www.
 Pantone→HSLa | code  | HSLa           | [Pantone Matching System](https://www.pantone.com)
 Pantone→RGB  | code  | RGB            | [Pantone Matching System](https://www.pantone.com)
 Pantone→RGBa | code  | RGBa           | [Pantone Matching System](https://www.pantone.com)
-RAL→Hex      | code  | Hexadecimal    | [RAL System](http://www.ralcolor.com/) (approx.)
-RAL→HSL      | code  | HSL            | [RAL System](http://www.ralcolor.com/) (approx.)
-RAL→HSLa     | code  | HSLa           | [RAL System](http://www.ralcolor.com/) (approx.)
-RAL→RGB      | code  | RGB            | [RAL System](http://www.ralcolor.com/) (approx.)
-RAL→RGBa     | code  | RGBa           | [RAL System](http://www.ralcolor.com/) (approx.)
+RAL→Hex      | code  | Hexadecimal    | [RAL System](http://www.ralcolor.com/)
+RAL→HSL      | code  | HSL            | [RAL System](http://www.ralcolor.com/)
+RAL→HSLa     | code  | HSLa           | [RAL System](http://www.ralcolor.com/)
+RAL→RGB      | code  | RGB            | [RAL System](http://www.ralcolor.com/)
+RAL→RGBa     | code  | RGBa           | [RAL System](http://www.ralcolor.com/)
 W3C→Hex      | name  | Hexadecimal    | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 W3C→HSL      | name  | HSL            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 W3C→HSLa     | name  | HSLa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 W3C→RGB      | name  | RGB            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 W3C→RGBa     | name  | RGBa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 
-*Examples:*
+### Examples:
 
 - `W3C→RGB:lime` → rgb(0, 255, 0)
 - `Pantone→Hex:313C` → #0092c7
