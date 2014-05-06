@@ -1,0 +1,2 @@
+* added HSL(a) support for all color systems
+* added support for ANPA colors
