@@ -1,5 +1,5 @@
 {
-        "scope": "source.less, source.sass, source.scss",
+        "scope": "source.css,source.less,source.sass,source.scss",
 
         "completions":
         [
