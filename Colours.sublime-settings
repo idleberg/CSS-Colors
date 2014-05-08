@@ -6915,8 +6915,8 @@
 		["RAL→HSL:6034",    "hsl(180.0, 26.7%, 60.4%)" ],
 		["RAL→HSL:6035",    "hsl(138.2, 50.0%, 22.0%)" ],
 		["RAL→HSL:6036",    "hsl(180.0, 37.5%, 15.7%)" ],
-		["RAL→HSL:6037",    "hsl(143.9, 100.0%, 28.0%)" ]
-		["RAL→HSL:6038",    "hsl(134.4, 100.0%, 36.7%)" ]
+		["RAL→HSL:6037",    "hsl(143.9, 100.0%, 28.0%)" ],
+		["RAL→HSL:6038",    "hsl(134.4, 100.0%, 36.7%)" ],
 		["RAL→HSL:7000",    "hsl(198.9, 7.6%, 50.8%)" ],
 		["RAL→HSL:7001",    "hsl(189.2, 5.9%, 56.7%)" ],
 		["RAL→HSL:7002",    "hsl(55.9, 21.2%, 40.8%)" ],
@@ -7562,16 +7562,16 @@
 		["W3C→Hex:whitesmoke",           "#f5f5f5" ],
 		["W3C→Hex:yellow",               "#ffff00" ],
 		["W3C→Hex:yellowgreen",          "#9acd32" ],
-		["W3C→HSL:aliceblue",            "hsl(208.0, 100.0%, 97.1%)" ]
+		["W3C→HSL:aliceblue",            "hsl(208.0, 100.0%, 97.1%)" ],
 		["W3C→HSL:antiquewhite",         "hsl(34.3, 77.8%, 91.2%)" ],
-		["W3C→HSL:aqua",                 "hsl(180.0, 100.0%, 50.0%)" ]
-		["W3C→HSL:aquamarine",           "hsl(159.8, 100.0%, 74.9%)" ]
-		["W3C→HSL:azure",                "hsl(180.0, 100.0%, 97.1%)" ]
+		["W3C→HSL:aqua",                 "hsl(180.0, 100.0%, 50.0%)" ],
+		["W3C→HSL:aquamarine",           "hsl(159.8, 100.0%, 74.9%)" ],
+		["W3C→HSL:azure",                "hsl(180.0, 100.0%, 97.1%)" ],
 		["W3C→HSL:beige",                "hsl(60.0, 55.6%, 91.2%)" ],
 		["W3C→HSL:bisque",               "hsl(32.5, 100.0%, 88.4%)" ],
 		["W3C→HSL:black",                "hsl(0.0, 0.0%, 0.0%)" ],
 		["W3C→HSL:blanchedalmond",       "hsl(36.0, 100.0%, 90.2%)" ],
-		["W3C→HSL:blue",                 "hsl(240.0, 100.0%, 50.0%)" ]
+		["W3C→HSL:blue",                 "hsl(240.0, 100.0%, 50.0%)" ],
 		["W3C→HSL:blueviolet",           "hsl(271.1, 75.9%, 52.7%)" ],
 		["W3C→HSL:brown",                "hsl(0.0, 59.4%, 40.6%)" ],
 		["W3C→HSL:burlywood",            "hsl(33.8, 56.9%, 70.0%)" ],
@@ -7582,15 +7582,15 @@
 		["W3C→HSL:cornflowerblue",       "hsl(218.5, 79.2%, 66.1%)" ],
 		["W3C→HSL:cornsilk",             "hsl(48.0, 100.0%, 93.1%)" ],
 		["W3C→HSL:crimson",              "hsl(348.0, 83.3%, 47.1%)" ],
-		["W3C→HSL:cyan",                 "hsl(180.0, 100.0%, 50.0%)" ]
-		["W3C→HSL:darkblue",             "hsl(240.0, 100.0%, 27.3%)" ]
-		["W3C→HSL:darkcyan",             "hsl(180.0, 100.0%, 27.3%)" ]
+		["W3C→HSL:cyan",                 "hsl(180.0, 100.0%, 50.0%)" ],
+		["W3C→HSL:darkblue",             "hsl(240.0, 100.0%, 27.3%)" ],
+		["W3C→HSL:darkcyan",             "hsl(180.0, 100.0%, 27.3%)" ],
 		["W3C→HSL:darkgoldenrod",        "hsl(42.7, 88.7%, 38.2%)" ],
 		["W3C→HSL:darkgray",             "hsl(0.0, 0.0%, 66.3%)" ],
-		["W3C→HSL:darkgreen",            "hsl(120.0, 100.0%, 19.6%)" ]
+		["W3C→HSL:darkgreen",            "hsl(120.0, 100.0%, 19.6%)" ],
 		["W3C→HSL:darkgrey",             "hsl(0.0, 0.0%, 66.3%)" ],
 		["W3C→HSL:darkkhaki",            "hsl(55.6, 38.3%, 58.0%)" ],
-		["W3C→HSL:darkmagenta",          "hsl(300.0, 100.0%, 27.3%)" ]
+		["W3C→HSL:darkmagenta",          "hsl(300.0, 100.0%, 27.3%)" ],
 		["W3C→HSL:darkolivegreen",       "hsl(82.0, 39.0%, 30.2%)" ],
 		["W3C→HSL:darkorange",           "hsl(32.9, 100.0%, 50.0%)" ],
 		["W3C→HSL:darkorchid",           "hsl(280.1, 60.6%, 49.8%)" ],
@@ -7600,43 +7600,43 @@
 		["W3C→HSL:darkslateblue",        "hsl(248.5, 39.0%, 39.2%)" ],
 		["W3C→HSL:darkslategray",        "hsl(180.0, 25.4%, 24.7%)" ],
 		["W3C→HSL:darkslategrey",        "hsl(180.0, 25.4%, 24.7%)" ],
-		["W3C→HSL:darkturquoise",        "hsl(180.9, 100.0%, 41.0%)" ]
-		["W3C→HSL:darkviolet",           "hsl(282.1, 100.0%, 41.4%)" ]
-		["W3C→HSL:deeppink",             "hsl(327.6, 100.0%, 53.9%)" ]
-		["W3C→HSL:deepskyblue",          "hsl(195.1, 100.0%, 50.0%)" ]
+		["W3C→HSL:darkturquoise",        "hsl(180.9, 100.0%, 41.0%)" ],
+		["W3C→HSL:darkviolet",           "hsl(282.1, 100.0%, 41.4%)" ],
+		["W3C→HSL:deeppink",             "hsl(327.6, 100.0%, 53.9%)" ],
+		["W3C→HSL:deepskyblue",          "hsl(195.1, 100.0%, 50.0%)" ],
 		["W3C→HSL:dimgray",              "hsl(0.0, 0.0%, 41.2%)" ],
 		["W3C→HSL:dimgrey",              "hsl(0.0, 0.0%, 41.2%)" ],
-		["W3C→HSL:dodgerblue",           "hsl(209.6, 100.0%, 55.9%)" ]
+		["W3C→HSL:dodgerblue",           "hsl(209.6, 100.0%, 55.9%)" ],
 		["W3C→HSL:firebrick",            "hsl(0.0, 67.9%, 41.6%)" ],
 		["W3C→HSL:floralwhite",          "hsl(40.0, 100.0%, 97.1%)" ],
 		["W3C→HSL:forestgreen",          "hsl(120.0, 60.7%, 33.9%)" ],
-		["W3C→HSL:fuchsia",              "hsl(300.0, 100.0%, 50.0%)" ]
+		["W3C→HSL:fuchsia",              "hsl(300.0, 100.0%, 50.0%)" ],
 		["W3C→HSL:gainsboro",            "hsl(0.0, 0.0%, 86.3%)" ],
-		["W3C→HSL:ghostwhite",           "hsl(240.0, 100.0%, 98.6%)" ]
+		["W3C→HSL:ghostwhite",           "hsl(240.0, 100.0%, 98.6%)" ],
 		["W3C→HSL:gold",                 "hsl(50.6, 100.0%, 50.0%)" ],
 		["W3C→HSL:goldenrod",            "hsl(42.9, 74.4%, 49.0%)" ],
 		["W3C→HSL:gray",                 "hsl(0.0, 0.0%, 50.2%)" ],
-		["W3C→HSL:green",                "hsl(120.0, 100.0%, 25.1%)" ]
+		["W3C→HSL:green",                "hsl(120.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:greenyellow",          "hsl(83.7, 100.0%, 59.2%)" ],
 		["W3C→HSL:grey",                 "hsl(0.0, 0.0%, 50.2%)" ],
-		["W3C→HSL:honeydew",             "hsl(120.0, 100.0%, 97.1%)" ]
-		["W3C→HSL:hotpink",              "hsl(330.0, 100.0%, 70.6%)" ]
+		["W3C→HSL:honeydew",             "hsl(120.0, 100.0%, 97.1%)" ],
+		["W3C→HSL:hotpink",              "hsl(330.0, 100.0%, 70.6%)" ],
 		["W3C→HSL:indianred",            "hsl(0.0, 53.1%, 58.2%)" ],
-		["W3C→HSL:indigo",               "hsl(274.6, 100.0%, 25.5%)" ]
+		["W3C→HSL:indigo",               "hsl(274.6, 100.0%, 25.5%)" ],
 		["W3C→HSL:ivory",                "hsl(60.0, 100.0%, 97.1%)" ],
 		["W3C→HSL:khaki",                "hsl(54.0, 76.9%, 74.5%)" ],
 		["W3C→HSL:lavender",             "hsl(240.0, 66.7%, 94.1%)" ],
-		["W3C→HSL:lavenderblush",        "hsl(340.0, 100.0%, 97.1%)" ]
+		["W3C→HSL:lavenderblush",        "hsl(340.0, 100.0%, 97.1%)" ],
 		["W3C→HSL:lawngreen",            "hsl(90.5, 100.0%, 49.4%)" ],
 		["W3C→HSL:lemonchiffon",         "hsl(54.0, 100.0%, 90.2%)" ],
 		["W3C→HSL:lightblue",            "hsl(194.7, 53.3%, 79.0%)" ],
 		["W3C→HSL:lightcoral",           "hsl(0.0, 78.9%, 72.2%)" ],
-		["W3C→HSL:lightcyan",            "hsl(180.0, 100.0%, 93.9%)" ]
+		["W3C→HSL:lightcyan",            "hsl(180.0, 100.0%, 93.9%)" ],
 		["W3C→HSL:lightgoldenrodyellow", "hsl(60.0, 80.0%, 90.2%)" ],
 		["W3C→HSL:lightgray",            "hsl(0.0, 0.0%, 82.7%)" ],
 		["W3C→HSL:lightgreen",           "hsl(120.0, 73.4%, 74.9%)" ],
 		["W3C→HSL:lightgrey",            "hsl(0.0, 0.0%, 82.7%)" ],
-		["W3C→HSL:lightpink",            "hsl(351.0, 100.0%, 85.7%)" ]
+		["W3C→HSL:lightpink",            "hsl(351.0, 100.0%, 85.7%)" ],
 		["W3C→HSL:lightsalmon",          "hsl(17.1, 100.0%, 73.9%)" ],
 		["W3C→HSL:lightseagreen",        "hsl(176.7, 69.5%, 41.2%)" ],
 		["W3C→HSL:lightskyblue",         "hsl(203.0, 92.0%, 75.5%)" ],
@@ -7644,26 +7644,26 @@
 		["W3C→HSL:lightslategrey",       "hsl(210.0, 14.3%, 53.3%)" ],
 		["W3C→HSL:lightsteelblue",       "hsl(213.9, 41.1%, 78.0%)" ],
 		["W3C→HSL:lightyellow",          "hsl(60.0, 100.0%, 93.9%)" ],
-		["W3C→HSL:lime",                 "hsl(120.0, 100.0%, 50.0%)" ]
+		["W3C→HSL:lime",                 "hsl(120.0, 100.0%, 50.0%)" ],
 		["W3C→HSL:limegreen",            "hsl(120.0, 60.8%, 50.0%)" ],
 		["W3C→HSL:linen",                "hsl(30.0, 66.7%, 94.1%)" ],
-		["W3C→HSL:magenta",              "hsl(300.0, 100.0%, 50.0%)" ]
+		["W3C→HSL:magenta",              "hsl(300.0, 100.0%, 50.0%)" ],
 		["W3C→HSL:maroon",               "hsl(0.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:mediumaquamarine",     "hsl(159.6, 50.7%, 60.2%)" ],
-		["W3C→HSL:mediumblue",           "hsl(240.0, 100.0%, 40.2%)" ]
+		["W3C→HSL:mediumblue",           "hsl(240.0, 100.0%, 40.2%)" ],
 		["W3C→HSL:mediumorchid",         "hsl(288.1, 58.9%, 58.0%)" ],
 		["W3C→HSL:mediumpurple",         "hsl(260.2, 57.1%, 64.3%)" ],
 		["W3C→HSL:mediumseagreen",       "hsl(146.7, 49.8%, 46.9%)" ],
 		["W3C→HSL:mediumslateblue",      "hsl(248.5, 79.8%, 67.1%)" ],
-		["W3C→HSL:mediumspringgreen",    "hsl(157.0, 100.0%, 49.0%)" ]
+		["W3C→HSL:mediumspringgreen",    "hsl(157.0, 100.0%, 49.0%)" ],
 		["W3C→HSL:mediumturquoise",      "hsl(177.8, 59.8%, 55.1%)" ],
 		["W3C→HSL:mediumvioletred",      "hsl(322.2, 80.9%, 43.1%)" ],
 		["W3C→HSL:midnightblue",         "hsl(240.0, 63.5%, 26.9%)" ],
-		["W3C→HSL:mintcream",            "hsl(150.0, 100.0%, 98.0%)" ]
+		["W3C→HSL:mintcream",            "hsl(150.0, 100.0%, 98.0%)" ],
 		["W3C→HSL:mistyrose",            "hsl(6.0, 100.0%, 94.1%)" ],
 		["W3C→HSL:moccasin",             "hsl(38.1, 100.0%, 85.5%)" ],
 		["W3C→HSL:navajowhite",          "hsl(35.9, 100.0%, 83.9%)" ],
-		["W3C→HSL:navy",                 "hsl(240.0, 100.0%, 25.1%)" ]
+		["W3C→HSL:navy",                 "hsl(240.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:oldlace",              "hsl(39.1, 85.2%, 94.7%)" ],
 		["W3C→HSL:olive",                "hsl(60.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:olivedrab",            "hsl(79.6, 60.5%, 34.7%)" ],
@@ -7677,10 +7677,10 @@
 		["W3C→HSL:papayawhip",           "hsl(37.1, 100.0%, 91.8%)" ],
 		["W3C→HSL:peachpuff",            "hsl(28.3, 100.0%, 86.3%)" ],
 		["W3C→HSL:peru",                 "hsl(29.6, 58.7%, 52.5%)" ],
-		["W3C→HSL:pink",                 "hsl(349.5, 100.0%, 87.6%)" ]
+		["W3C→HSL:pink",                 "hsl(349.5, 100.0%, 87.6%)" ],
 		["W3C→HSL:plum",                 "hsl(300.0, 47.3%, 74.7%)" ],
 		["W3C→HSL:powderblue",           "hsl(186.7, 51.9%, 79.6%)" ],
-		["W3C→HSL:purple",               "hsl(300.0, 100.0%, 25.1%)" ]
+		["W3C→HSL:purple",               "hsl(300.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:red",                  "hsl(0.0, 100.0%, 50.0%)" ],
 		["W3C→HSL:rosybrown",            "hsl(0.0, 25.1%, 64.9%)" ],
 		["W3C→HSL:royalblue",            "hsl(225.0, 72.7%, 56.9%)" ],
@@ -7696,10 +7696,10 @@
 		["W3C→HSL:slategray",            "hsl(210.0, 12.6%, 50.2%)" ],
 		["W3C→HSL:slategrey",            "hsl(210.0, 12.6%, 50.2%)" ],
 		["W3C→HSL:snow",                 "hsl(0.0, 100.0%, 99.0%)" ],
-		["W3C→HSL:springgreen",          "hsl(149.9, 100.0%, 50.0%)" ]
+		["W3C→HSL:springgreen",          "hsl(149.9, 100.0%, 50.0%)" ],
 		["W3C→HSL:steelblue",            "hsl(207.3, 44.0%, 49.0%)" ],
 		["W3C→HSL:tan",                  "hsl(34.3, 43.7%, 68.6%)" ],
-		["W3C→HSL:teal",                 "hsl(180.0, 100.0%, 25.1%)" ]
+		["W3C→HSL:teal",                 "hsl(180.0, 100.0%, 25.1%)" ],
 		["W3C→HSL:thistle",              "hsl(300.0, 24.3%, 79.8%)" ],
 		["W3C→HSL:tomato",               "hsl(9.1, 100.0%, 63.9%)" ],
 		["W3C→HSL:turquoise",            "hsl(174.0, 72.1%, 56.5%)" ],
