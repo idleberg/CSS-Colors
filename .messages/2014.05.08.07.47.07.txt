@@ -1,0 +1,4 @@
+post-2014.05.08.07.47.07
+========================
+* changed to snippets system for more reliability
+* changed prefixes (sorry!)
