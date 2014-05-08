@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(34.3, 43.7%, 68.6%)
+]]></content>
+	<tabTrigger>w3cHSL:tan</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

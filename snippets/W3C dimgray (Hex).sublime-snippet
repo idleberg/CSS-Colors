@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#696969
+]]></content>
+	<tabTrigger>w3cHex:dimgray</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

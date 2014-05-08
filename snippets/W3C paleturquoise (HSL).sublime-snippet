@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(180.0, 64.9%, 81.0%)
+]]></content>
+	<tabTrigger>w3cHSL:paleturquoise</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

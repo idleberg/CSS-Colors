@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(24.1, 70.7%, 75.9%,)
+]]></content>
+	<tabTrigger>pantoneHSL:473C</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

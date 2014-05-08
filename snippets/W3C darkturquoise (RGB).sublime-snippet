@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(0, 206, 209)
+]]></content>
+	<tabTrigger>w3cRGB:darkturquoise</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

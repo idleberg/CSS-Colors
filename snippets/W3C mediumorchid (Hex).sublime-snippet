@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#ba55d3
+]]></content>
+	<tabTrigger>w3cHex:mediumorchid</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

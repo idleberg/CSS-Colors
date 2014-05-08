@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#f08080
+]]></content>
+	<tabTrigger>w3cHex:lightcoral</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

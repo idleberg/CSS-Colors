@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#d3d3d3
+]]></content>
+	<tabTrigger>w3cHex:lightgray</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

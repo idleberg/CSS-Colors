@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#ffa07a
+]]></content>
+	<tabTrigger>w3cHex:lightsalmon</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(351.0, 100.0%, 85.7%)
+]]></content>
+	<tabTrigger>w3cHSL:lightpink</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

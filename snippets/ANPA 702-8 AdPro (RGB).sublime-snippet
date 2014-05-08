@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(119, 186, 126)
+]]></content>
+	<tabTrigger>anpaRGB:702-8</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

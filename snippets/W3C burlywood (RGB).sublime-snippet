@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(222, 184, 135)
+]]></content>
+	<tabTrigger>w3cRGB:burlywood</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

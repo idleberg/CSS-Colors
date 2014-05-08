@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(221, 160, 221)
+]]></content>
+	<tabTrigger>w3cRGB:plum</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

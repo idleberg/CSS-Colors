@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(280.1, 60.6%, 49.8%)
+]]></content>
+	<tabTrigger>w3cHSL:darkorchid</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

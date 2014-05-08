@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#00ced1
+]]></content>
+	<tabTrigger>w3cHex:darkturquoise</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

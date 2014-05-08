@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsla(60.0, 80.0%, 90.2%, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cHSLa:lightgoldenrodyellow</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

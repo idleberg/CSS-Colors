@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(240, 128, 128, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cRGBa:lightcoral</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(106, 95, 49, ${1:1.0})
+]]></content>
+	<tabTrigger>ralRGBa:7008</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(0.0, 78.9%, 72.2%)
+]]></content>
+	<tabTrigger>w3cHSL:lightcoral</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

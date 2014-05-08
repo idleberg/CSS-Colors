@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#f0f8ff
+]]></content>
+	<tabTrigger>w3cHex:aliceblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

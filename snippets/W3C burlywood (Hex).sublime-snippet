@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#deb887
+]]></content>
+	<tabTrigger>w3cHex:burlywood</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

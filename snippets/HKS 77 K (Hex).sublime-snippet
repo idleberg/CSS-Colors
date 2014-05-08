@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#693827
+]]></content>
+	<tabTrigger>hkskHex:77</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

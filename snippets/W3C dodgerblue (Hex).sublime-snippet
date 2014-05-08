@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#1e90ff
+]]></content>
+	<tabTrigger>w3cHex:dodgerblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

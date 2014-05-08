@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(17.1, 100.0%, 73.9%)
+]]></content>
+	<tabTrigger>w3cHSL:lightsalmon</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(100, 149, 237)
+]]></content>
+	<tabTrigger>w3cRGB:cornflowerblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

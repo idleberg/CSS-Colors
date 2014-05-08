@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#f3c9d6
+]]></content>
+	<tabTrigger>anpaHex:722-4</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(159.8, 100.0%, 74.9%)
+]]></content>
+	<tabTrigger>w3cHSL:aquamarine</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

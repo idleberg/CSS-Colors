@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(300.0, 24.3%, 79.8%)
+]]></content>
+	<tabTrigger>w3cHSL:thistle</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

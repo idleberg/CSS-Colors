@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(178, 34, 34)
+]]></content>
+	<tabTrigger>w3cRGB:firebrick</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

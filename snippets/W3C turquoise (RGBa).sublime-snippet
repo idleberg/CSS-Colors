@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(64, 224, 208, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cRGBa:turquoise</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

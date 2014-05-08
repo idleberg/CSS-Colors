@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(255, 240, 245)
+]]></content>
+	<tabTrigger>w3cRGB:lavenderblush</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

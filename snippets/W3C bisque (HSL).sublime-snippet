@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(32.5, 100.0%, 88.4%)
+]]></content>
+	<tabTrigger>w3cHSL:bisque</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

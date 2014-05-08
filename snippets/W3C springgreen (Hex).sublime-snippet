@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#00ff7f
+]]></content>
+	<tabTrigger>w3cHex:springgreen</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

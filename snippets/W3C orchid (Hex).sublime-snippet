@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#da70d6
+]]></content>
+	<tabTrigger>w3cHex:orchid</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

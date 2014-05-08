@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsla(207.3, 68.1%, 41.8%, ${1:1.0})
+]]></content>
+	<tabTrigger>ralHSLa:5015</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

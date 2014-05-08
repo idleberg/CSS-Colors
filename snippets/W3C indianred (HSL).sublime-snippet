@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(0.0, 53.1%, 58.2%)
+]]></content>
+	<tabTrigger>w3cHSL:indianred</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

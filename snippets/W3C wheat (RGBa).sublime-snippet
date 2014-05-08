@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(245, 222, 179, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cRGBa:wheat</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

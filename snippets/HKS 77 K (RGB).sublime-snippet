@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(99, 62, 43)
+]]></content>
+	<tabTrigger>hkskRGB:77</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

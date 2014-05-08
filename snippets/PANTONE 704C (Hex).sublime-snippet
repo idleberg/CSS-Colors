@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#a22630
+]]></content>
+	<tabTrigger>pantoneHex:704C</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

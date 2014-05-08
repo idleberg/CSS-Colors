@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsla(22.5, 57.1%, 97.3%, ${1:1.0})
+]]></content>
+	<tabTrigger>anpaHSLa:752-1</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

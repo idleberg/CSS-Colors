@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(106, 90, 205)
+]]></content>
+	<tabTrigger>w3cRGB:slateblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

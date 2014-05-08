@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(127, 255, 212, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cRGBa:aquamarine</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

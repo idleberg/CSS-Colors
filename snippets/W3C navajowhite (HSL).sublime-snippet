@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(35.9, 100.0%, 83.9%)
+]]></content>
+	<tabTrigger>w3cHSL:navajowhite</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

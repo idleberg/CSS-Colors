@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(42.9, 74.4%, 49.0%)
+]]></content>
+	<tabTrigger>w3cHSL:goldenrod</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

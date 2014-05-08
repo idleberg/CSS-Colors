@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(54.0, 100.0%, 90.2%)
+]]></content>
+	<tabTrigger>w3cHSL:lemonchiffon</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

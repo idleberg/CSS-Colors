@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(163, 133, 123, ${1:1.0})
+]]></content>
+	<tabTrigger>anpaRGBa:751-8</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

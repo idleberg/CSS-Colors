@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#59351f
+]]></content>
+	<tabTrigger>ralHex:8007</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

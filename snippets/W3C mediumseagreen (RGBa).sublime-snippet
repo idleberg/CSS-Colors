@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgba(60, 179, 113, ${1:1.0})
+]]></content>
+	<tabTrigger>w3cRGBa:mediumseagreen</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

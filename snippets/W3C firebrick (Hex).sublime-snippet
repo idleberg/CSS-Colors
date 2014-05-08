@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#b22222
+]]></content>
+	<tabTrigger>w3cHex:firebrick</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

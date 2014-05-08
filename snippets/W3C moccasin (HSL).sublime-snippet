@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(38.1, 100.0%, 85.5%)
+]]></content>
+	<tabTrigger>w3cHSL:moccasin</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

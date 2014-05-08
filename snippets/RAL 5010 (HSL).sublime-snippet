@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(213.4, 68.5%, 17.5%)
+]]></content>
+	<tabTrigger>ralHSL:5010</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

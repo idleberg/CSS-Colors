@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(159.6, 50.7%, 60.2%)
+]]></content>
+	<tabTrigger>w3cHSL:mediumaquamarine</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

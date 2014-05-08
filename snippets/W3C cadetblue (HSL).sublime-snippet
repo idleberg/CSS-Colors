@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(181.8, 25.5%, 50.0%)
+]]></content>
+	<tabTrigger>w3cHSL:cadetblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

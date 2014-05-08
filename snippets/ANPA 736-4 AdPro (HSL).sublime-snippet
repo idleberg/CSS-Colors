@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(187.5, 64.5%, 87.8%)
+]]></content>
+	<tabTrigger>anpaHSL:736-4</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

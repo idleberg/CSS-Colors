@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#d8bfd8
+]]></content>
+	<tabTrigger>w3cHex:thistle</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

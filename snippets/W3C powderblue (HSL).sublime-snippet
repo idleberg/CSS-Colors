@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hsl(186.7, 51.9%, 79.6%)
+]]></content>
+	<tabTrigger>w3cHSL:powderblue</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

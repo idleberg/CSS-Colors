@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#ffe4c4
+]]></content>
+	<tabTrigger>w3cHex:bisque</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

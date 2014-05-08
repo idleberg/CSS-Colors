@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(183, 132, 140)
+]]></content>
+	<tabTrigger>pantoneRGB:5005C</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

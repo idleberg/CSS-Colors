@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(50, 205, 50)
+]]></content>
+	<tabTrigger>w3cRGB:limegreen</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

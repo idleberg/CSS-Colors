@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#e6e6fa
+]]></content>
+	<tabTrigger>w3cHex:lavender</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

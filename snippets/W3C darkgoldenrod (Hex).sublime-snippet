@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#b8860b
+]]></content>
+	<tabTrigger>w3cHex:darkgoldenrod</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

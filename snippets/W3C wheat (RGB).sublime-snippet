@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+rgb(245, 222, 179)
+]]></content>
+	<tabTrigger>w3cRGB:wheat</tabTrigger>
+	<scope>source.css,source.less,source.sass,source.scss</scope>
+</snippet>

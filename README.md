@@ -1,6 +1,6 @@
 # CSS Colors [![Build Status](https://secure.travis-ci.org/idleberg/CSS-Colors.png)](http://travis-ci.org/idleberg/CSS-Colors)
 
-CSS color completions for Sublime Text, supporting a variety of color systems such as W3C, Pantone, ANPA, HKS or RAL
+CSS color snippets for Sublime Text, supporting a variety of color systems such as W3C, Pantone, ANPA, HKS or RAL
 
 ## Installation
 
@@ -17,39 +17,39 @@ CSS color completions for Sublime Text, supporting a variety of color systems su
 
 ## Usage
 
-The completions are available for the scopes `source.css`, `source.less`, `source.sass` and `source.scss`
+The snippets are available for the scopes `source.css`, `source.less`, `source.sass` and `source.scss`
 
 Use any of the following triggers:
 
 Prefix       | Value | Representation | Colour System
 -------------|-------|----------------|--------------
-ANPA→Hex     | code  | Hexdecimal     | American Newspaper Publishers Association (1)
-ANPA→HSL     | code  | HSL            | American Newspaper Publishers Association (0)
-ANPA→HSLa    | code  | HSLa           | American Newspaper Publishers Association (0)
-ANPA→RGB     | code  | RGB            | American Newspaper Publishers Association (0)
-ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association (0)
-ANPA→RGBa    | code  | RGBa           | American Newspaper Publishers Association (0)
-HKS K→Hex    | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-HKS K→RGB    | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-HKS K→RGBa   | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-HKS N→Hex    | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-HKS N→RGB    | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-HKS N→RGBa   | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
-Pantone→Hex  | code  | Hexadecimal    | [Pantone Matching System](https://www.pantone.com) (3)
-Pantone→HSL  | code  | HSL            | [Pantone Matching System](https://www.pantone.com) (0)
-Pantone→HSLa | code  | HSLa           | [Pantone Matching System](https://www.pantone.com) (0)
-Pantone→RGB  | code  | RGB            | [Pantone Matching System](https://www.pantone.com) (3)
-Pantone→RGBa | code  | RGBa           | [Pantone Matching System](https://www.pantone.com) (3)
-RAL→Hex      | code  | Hexadecimal    | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
-RAL→HSL      | code  | HSL            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
-RAL→HSLa     | code  | HSLa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
-RAL→RGB      | code  | RGB            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
-RAL→RGBa     | code  | RGBa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
-W3C→Hex      | name  | Hexadecimal    | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
-W3C→HSL      | name  | HSL            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
-W3C→HSLa     | name  | HSLa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
-W3C→RGB      | name  | RGB            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
-W3C→RGBa     | name  | RGBa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+anpaHex      | code  | Hexdecimal     | American Newspaper Publishers Association (1)
+anpaHSL      | code  | HSL            | American Newspaper Publishers Association (0)
+anpaHSLa     | code  | HSLa           | American Newspaper Publishers Association (0)
+anpaRGB      | code  | RGB            | American Newspaper Publishers Association (0)
+anpaRGBa     | code  | RGBa           | American Newspaper Publishers Association (0)
+anpaRGBa     | code  | RGBa           | American Newspaper Publishers Association (0)
+hkskHex      | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+hkskRGB      | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+hkskRGBa     | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+hksnHex      | code  | Hexadecimal    | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+hksnRGB      | code  | RGB            | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+hksnRGBa     | code  | RGBa           | [HKS Color System](http://en.wikipedia.org/wiki/HKS_(colour_system)) (2)
+pantoneHex   | code  | Hexadecimal    | [Pantone Matching System](https://www.pantone.com) (3)
+pantoneHSL   | code  | HSL            | [Pantone Matching System](https://www.pantone.com) (0)
+pantoneHSLa  | code  | HSLa           | [Pantone Matching System](https://www.pantone.com) (0)
+pantoneRGB   | code  | RGB            | [Pantone Matching System](https://www.pantone.com) (3)
+pantoneRGBa  | code  | RGBa           | [Pantone Matching System](https://www.pantone.com) (3)
+ralHex       | code  | Hexadecimal    | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
+ralHSL       | code  | HSL            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
+ralHSLa      | code  | HSLa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (0)
+ralRGB       | code  | RGB            | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
+ralRGBa      | code  | RGBa           | [RAL Color System](http://en.wikipedia.org/wiki/RAL_colour_standard) (4)
+w3cHex       | name  | Hexadecimal    | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+w3cHSL       | name  | HSL            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+w3cHSLa      | name  | HSLa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+w3cRGB       | name  | RGB            | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
+w3cRGBa      | name  | RGBa           | [CSS Color Module Level 3](http://www.w3.org/TR/css3-color)
 
 *(0) converted from Hex values*  
 *(1) sampled from Adobe Photoshop*  
