@@ -1,6 +1,6 @@
 {
 	"colours": [
-		["jj\tExperimental", "${1:experimental${2:_jj}}"],
-		["mm\tExperimental", "${1:experimental${2:_mm}}"]
+		["jj\tExperimental", "experimental${1:_jj}"],
+		["mm\tExperimental", "experimental${1:_mm}"]
 	]
 }
