@@ -8,7 +8,7 @@ CSS color snippets for Sublime Text, supporting a variety of color systems such 
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
-3. Select *CSS Colors* and press `Enter`}
+3. Select *CSS Colors* and press `Enter`
 
 ### GitHub
 
