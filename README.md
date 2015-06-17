@@ -1,4 +1,8 @@
-# CSS Colors [![Build Status](https://secure.travis-ci.org/idleberg/CSS-Colors.png)](http://travis-ci.org/idleberg/CSS-Colors)
+# CSS Colors
+
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/release/idleberg/CSS-Colors.svg?style=flat-square)](https://github.com/idleberg/CSS-Colors/releases)
+[![Travis](https://img.shields.io/travis/idleberg/CSS-Colors.svg?style=flat-square)](https://travis-ci.org/idleberg/CSS-Colors)
 
 CSS color snippets for Sublime Text, supporting a variety of color systems such as W3C, Pantone, ANPA, HKS or RAL
 
