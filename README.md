@@ -12,8 +12,8 @@ CSS color snippets for Sublime Text, supporting a variety of color systems such 
 ### Package Control
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
-2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
-3. Select *CSS Colors* and press <kbd>Enter</kbd>
+2. Choose “*Install Package*” from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
+3. Type “*CSS Colors*” and press <kbd>Enter</kbd>
 
 ### GitHub
 
