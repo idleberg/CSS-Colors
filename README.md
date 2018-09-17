@@ -15,7 +15,7 @@ CSS color snippets for Sublime Text, supporting a variety of color systems such 
 2. Choose *“Install Package”* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P on OS X`)
 3. Type *“CSS Colors”* and press <kbd>Enter</kbd>
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/CSS-Colors 'CSS Colors'`
@@ -81,4 +81,4 @@ This work is licensed under the [The MIT License](LICENSE).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/CSS-Colors) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/CSS-Colors) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
